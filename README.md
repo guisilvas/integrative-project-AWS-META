@@ -9,9 +9,6 @@
 
 <br>
 
----
-<br>
-
 ## 🔨 Ferramentas
 
 - [HTML](https://www.w3.org/TR/html/)
@@ -20,16 +17,10 @@
 
 <br>
 
----
-<br>
-
 ## 🎯 Objetivo
 
 Este é o projeto final ministrado pela professora [Juliana Sinnot](https://github.com/julianasinnott) realizado pelo Grupo 03 da Turma 2 do primeiro bootcamp da [Proz Educação](https://prozeducacao.com.br/) oferecido pelas empresas [Meta](https://about.meta.com/) e [AWS](https://aws.amazon.com/). O principal objetivo do projeto é aplicar as habilidades em frontend adquiridas ao longo do curso, desenvolver um website com um tema importante e relevante. A Biome aborda a sustentabilidade, procura reeducar a forma que milhões de brasileiros veêm o meio-ambiente e mostrar como podemos ser mais generosos com nosso planeta. Fazer o certo não deveria ser algo inusitado em nossa realidade.
 
-<br>
-
----
 <br>
 
 ## ⚡ Contribua
