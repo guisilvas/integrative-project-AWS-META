@@ -3,6 +3,12 @@
     <p>Biome - Renove a esperança ♻ </p>
 </h1>
 
+<img src="./assets/images/GIF-biome.gif">
+
+## [Visite o site](https://guisilvas.github.io/projeto-integrador-AWS-META/index.html)
+
+<br>
+
 ## 📄 Sobre
 
 **Biome** é um site que utiliza HTML, CSS e JavaScript, o projeto foi realizado em grupo durante o primeiro bootcamp da Proz em parceria com a AWS e Meta com o intuito de introduzir a base da programação.
