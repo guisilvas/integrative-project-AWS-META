@@ -3,7 +3,7 @@
     <p>Biome - Renove a esperança ♻ </p>
 </h1>
 
-<img src="./assets/images/GIF-biome.gif">
+<img src="./assets/images/biome-gif.gif">
 
 ## [Visite o site](https://guisilvas.github.io/projeto-integrador-AWS-META/index.html)
 
